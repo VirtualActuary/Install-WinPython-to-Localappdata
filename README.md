@@ -1,2 +1,4 @@
 # Install-WinPython-to-Localappdata
-Batch script to extract WinPython64-3*.exe installer to "%LocalAppData%\autoactuary\WinPython"
+- Download Winpython64-3*.exe from https://github.com/winpython/winpython/releases
+- Use `install-winpython-to-appdata.cmd` to install with VA Settings
+- WinPython will be installed to "%LocalAppData%\autoactuary\WinPython"
